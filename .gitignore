@@ -1,0 +1,3 @@
+# Arquivo com senhas e API keys — nunca enviar pro GitHub
+.env
+__pycache__/

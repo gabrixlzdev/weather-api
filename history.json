@@ -1,0 +1,18 @@
+[
+  {
+    "city": "S\u00e3o Paulo",
+    "temp": 22.15,
+    "humidity": 62,
+    "wind_speed": 3.08,
+    "description": "clear sky",
+    "timestamp": "2026-04-20 10:17"
+  },
+  {
+    "city": "Indaiatuba",
+    "temp": 24.16,
+    "humidity": 49,
+    "wind_speed": 3.29,
+    "description": "clear sky",
+    "timestamp": "2026-04-20 10:22"
+  }
+]

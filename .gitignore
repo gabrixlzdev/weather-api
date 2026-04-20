@@ -1,3 +1,4 @@
 # Arquivo com senhas e API keys — nunca enviar pro GitHub
 .env
+history.json
 __pycache__/

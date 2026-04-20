@@ -36,7 +36,7 @@ def show_history() -> None:
     
     print("\n ---Last Searches---")
     for entry in history [-5:]: #percorre somente os 5 últimos itens
-        print (f"   {entry['timestamp']} | {entry['city']} | {entry['temp']}°C")
+        print (f"   {entry['timestamp']} | {entry['city']} | {entry['temp']}°C | humidity: {entry['humidity']}%")
     print()
     #Cada entry é um dicionário — por isso acessa com entry['city'], entry['temp'] etc.
 
